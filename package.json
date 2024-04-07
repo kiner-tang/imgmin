@@ -9,7 +9,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "kiner",
+  "author": "kiner-tang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiner-tang/imgmin"
+  },
   "license": "ISC",
   "devDependencies": {
     "fs-extra": "^10.0.0",
