@@ -1,6 +1,6 @@
 {
   "name": "@kiner/img-min",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "基于 tinypng 的压缩数量不限的图片压缩组件",
   "main": "core.mjs",
   "bin": {
